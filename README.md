@@ -2,10 +2,6 @@
 
 The fundamentals for a TypeGraphQL API.
 
-### About :question:
-
-This is the source code of my TypeGraphQL Basics post.
-
 ### Running:
 
 First clone this repo
